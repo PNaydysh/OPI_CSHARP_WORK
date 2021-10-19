@@ -19,6 +19,6 @@ class Program
             Console.WriteLine(n3);
 
 
-            Console.ReadKey();
+        Console.ReadKey();
     }
 }
