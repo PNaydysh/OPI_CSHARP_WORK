@@ -24,5 +24,7 @@ class Program
         else if(n1 == 7)
             Console.WriteLine("Воскресенье");
         else Console.WriteLine("Ошибка");
+        
+        Console.ReadKey();
     }
 }
