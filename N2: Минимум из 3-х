@@ -15,5 +15,7 @@ class Program
         min = n1 < n2 ? n1 : n2;
         min = min < n3 ? min : n3;
         Console.WriteLine(min);
+        
+        Console.ReadKey();
     }
 }
